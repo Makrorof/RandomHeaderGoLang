@@ -4,8 +4,8 @@ import (
 	"log"
 	"testing"
 
-	"github.com/Makrorof/RandomHTTPHeader/Headers"
-	"github.com/Makrorof/RandomHTTPHeader/Utils"
+	"github.com/Makrorof/RandomHeaderGoLang/Headers"
+	"github.com/Makrorof/RandomHeaderGoLang/Utils"
 )
 
 func TestRandomHeader(t *testing.T) {

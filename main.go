@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Makrorof/RandomHTTPHeader/Utils"
+	"github.com/Makrorof/RandomHeaderGoLang/Utils"
 )
 
 //https://github.com/mdn/content/tree/main/files/en-us/web/http/headers

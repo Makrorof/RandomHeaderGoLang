@@ -1,3 +1,3 @@
-module github.com/Makrorof/RandomHTTPHeader
+module github.com/Makrorof/RandomHeaderGoLang
 
 go 1.18

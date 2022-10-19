@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"strings"
 
-	"github.com/Makrorof/RandomHTTPHeader/Utils"
+	"github.com/Makrorof/RandomHeaderGoLang/Utils"
 )
 
 type RandomHeader struct {

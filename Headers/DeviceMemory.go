@@ -1,6 +1,6 @@
 package Headers
 
-import "github.com/Makrorof/RandomHTTPHeader/Utils"
+import "github.com/Makrorof/RandomHeaderGoLang/Utils"
 
 var deviceMemoryList []*RandomHeader = []*RandomHeader{
 	{optionalVals: []string{"0.25", "0.5", "1", "2", "4", "8"}, singleOptional: true},

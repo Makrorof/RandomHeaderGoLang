@@ -1,6 +1,6 @@
 package Headers
 
-import "github.com/Makrorof/RandomHTTPHeader/Utils"
+import "github.com/Makrorof/RandomHeaderGoLang/Utils"
 
 var cacheControlList []*RandomHeader = []*RandomHeader{
 	{optionalVals: []string{"max-age=604800", "no-cache", "max-age=604800, must-revalidate", "no-store", "private", "public"}, singleOptional: true},

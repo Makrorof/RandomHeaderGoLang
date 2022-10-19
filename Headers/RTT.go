@@ -1,6 +1,6 @@
 package Headers
 
-import "github.com/Makrorof/RandomHTTPHeader/Utils"
+import "github.com/Makrorof/RandomHeaderGoLang/Utils"
 
 var rttList []*RandomHeader = []*RandomHeader{
 	{optionalVals: []string{"50", "125"}, singleOptional: true},

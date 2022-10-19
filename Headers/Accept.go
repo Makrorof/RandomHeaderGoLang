@@ -1,7 +1,7 @@
 package Headers
 
 import (
-	"github.com/Makrorof/RandomHTTPHeader/Utils"
+	"github.com/Makrorof/RandomHeaderGoLang/Utils"
 )
 
 var acceptList []*RandomHeader = []*RandomHeader{

@@ -1,6 +1,6 @@
 package Headers
 
-import "github.com/Makrorof/RandomHTTPHeader/Utils"
+import "github.com/Makrorof/RandomHeaderGoLang/Utils"
 
 var acceptLanguageList []*RandomHeader = []*RandomHeader{
 	{staticVals: []string{"*"}},

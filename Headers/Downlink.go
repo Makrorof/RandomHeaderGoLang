@@ -1,6 +1,6 @@
 package Headers
 
-import "github.com/Makrorof/RandomHTTPHeader/Utils"
+import "github.com/Makrorof/RandomHeaderGoLang/Utils"
 
 var downlinkList []*RandomHeader = []*RandomHeader{
 	{optionalVals: []string{"1.5", "1.7", "2", "5", "7", "10", "7.95"}, singleOptional: true},

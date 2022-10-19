@@ -1,6 +1,6 @@
 package Headers
 
-import "github.com/Makrorof/RandomHTTPHeader/Utils"
+import "github.com/Makrorof/RandomHeaderGoLang/Utils"
 
 var viewportWidthList []*RandomHeader = []*RandomHeader{
 	{optionalVals: []string{"1920", "960", "2560", "1280"}, singleOptional: true},

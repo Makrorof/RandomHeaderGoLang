@@ -1,6 +1,6 @@
 package main
 
-import "github.com/Makrorof/RandomHTTPHeader/Headers"
+import "github.com/Makrorof/RandomHeaderGoLang/Headers"
 
 func GenerateHeaderHR(host string, referer string) map[string][]string {
 	header := make(map[string][]string)
