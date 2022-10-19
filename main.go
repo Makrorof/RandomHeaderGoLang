@@ -6,7 +6,7 @@ import (
 
 //https://github.com/mdn/content/tree/main/files/en-us/web/http/headers
 
-func main() {
+func init() {
 	//Set seed
 	Utils.Init()
 
