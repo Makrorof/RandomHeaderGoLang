@@ -1,4 +1,4 @@
-package github.com/Makrorof/RandomHeaderGoLang
+package main
 
 import "github.com/Makrorof/RandomHeaderGoLang/Headers"
 
